@@ -13,9 +13,12 @@ Dokumentasi ini menyajikan implementasi study case Ojek Online dengan dua gaya p
 - [Penjelasan Implementasi](#Penjelasan-Implementasi)
 - [Perbedaan OOP vs Procedural](#Perbedaan-OOP-vs-Procedural)
 - [Cara Menjalankan](#cara-menjalankan)
+- [Output yang Diharapkan](#Output-yang-Diharapkan)
+- [Cara Menjalankan](#cara-menjalankan)
 - [Catatan](#catatan)
+- [Hasil](#Hasil)
 
-## 📁 Struktur Folder
+## Struktur Folder
 
 ```
 studycase/
@@ -27,7 +30,7 @@ studycase/
 └── readme2.md               # Dokumentasi tambahan ini
 ```
 
-## 🎯 Tujuan Study Case
+## Tujuan Study Case
 
 Tujuan dari study case ini adalah memperlihatkan perbedaan antara:
 - **Object-Oriented Programming (OOP)**
@@ -38,7 +41,7 @@ Keduanya menghitung biaya ojek online berdasarkan aturan:
 - biaya minimum = Rp 10000
 - mendukung diskon mahasiswa
 
-## 📌 Penjelasan Implementasi
+## Penjelasan Implementasi
 
 ### `Ojek.java`
 
@@ -64,7 +67,7 @@ Implementasi gaya procedural:
 - semua data dilempar sebagai parameter
 - tidak ada state tersimpan di dalam objek
 
-## 🧠 Perbedaan OOP vs Procedural
+## Perbedaan OOP vs Procedural
 
 | Aspek | OOP | Procedural |
 |------|-----|------------|
@@ -73,7 +76,7 @@ Implementasi gaya procedural:
 | Reuse | Method dalam objek bisa dipakai ulang | Fungsi dipanggil ulang |
 | Struktur | Lebih modular | Lebih linear |
 
-## ▶️ Cara Menjalankan
+## Cara Menjalankan
 
 1. Buka terminal di folder `studycase`
 2. Compile semua file Java:
@@ -94,7 +97,7 @@ java MainOjek
 java MainOjekProcedural
 ```
 
-## ✅ Output yang Diharapkan
+## Output yang Diharapkan
 
 Versi OOP akan menampilkan data jarak, biaya, dan biaya setelah diskon mahasiswa.
 Versi procedural menampilkan hasil serupa dengan gaya pemanggilan fungsi langsung.
@@ -103,4 +106,6 @@ Versi procedural menampilkan hasil serupa dengan gaya pemanggilan fungsi langsun
 
 - `StudyCase.md` berisi deskripsi studi kasus dan aturan perhitungan.
 - `README.md` di folder `studycase` menjelaskan struktur implementasi dan perbedaan OOP/procedural.
-- `readme2.md` ini menyajikan dokumentasi tambahan yang mengikuti gaya dokumentasi `README.md` di folder utama.
+
+## Hasil
+![Output](assets/hasil.png)
