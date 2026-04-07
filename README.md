@@ -1,8 +1,19 @@
-# Praktikum Ojek Online
+# Muhamad Harshal Azmi - I.2510511 
+
+# Study Case Praktikum OOP Java
 
 Dokumentasi ini menyajikan implementasi study case Ojek Online dengan dua gaya pemrograman:
 - **Gaya OOP** pada `MainOjek.java` dan `Ojek.java`
 - **Gaya Procedural** pada `MainOjekProcedural.java`
+
+## Table of Contents
+
+- [📁 Struktur Folder](#Struktur-Folder)
+- [🎯 Tujuan Study Case](#Tujuan-Study-Case)
+- [📌 Penjelasan Implementasi](#Penjelasan-Implementasi)
+- [🧠 Perbedaan OOP vs Procedural](#Perbedaan-OOP-vs-Procedural)
+- [▶️ Cara Menjalankan](#Cara-Menjalankan)
+- 
 
 ## 📁 Struktur Folder
 
