@@ -13,7 +13,7 @@ Dokumentasi ini menyajikan implementasi study case Ojek Online dengan dua gaya p
 - [Penjelasan Implementasi](#Penjelasan-Implementasi)
 - [Perbedaan OOP vs Procedural](#Perbedaan-OOP-vs-Procedural)
 - [Cara Menjalankan](#cara-menjalankan)
-- [Catatan](catatan)
+- [Catatan](#catatan)
 
 ## 📁 Struktur Folder
 
@@ -99,7 +99,7 @@ java MainOjekProcedural
 Versi OOP akan menampilkan data jarak, biaya, dan biaya setelah diskon mahasiswa.
 Versi procedural menampilkan hasil serupa dengan gaya pemanggilan fungsi langsung.
 
-## 📝 Catatan
+## Catatan
 
 - `StudyCase.md` berisi deskripsi studi kasus dan aturan perhitungan.
 - `README.md` di folder `studycase` menjelaskan struktur implementasi dan perbedaan OOP/procedural.
