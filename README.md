@@ -8,11 +8,11 @@ Dokumentasi ini menyajikan implementasi study case Ojek Online dengan dua gaya p
 
 ## Table of Contents
 
-- [📁 Struktur Folder](#Struktur-Folder)
-- [🎯 Tujuan Study Case](#Tujuan-Study-Case)
-- [📌 Penjelasan Implementasi](#Penjelasan-Implementasi)
-- [🧠 Perbedaan OOP vs Procedural](#Perbedaan-OOP-vs-Procedural)
-- [▶️ Cara Menjalankan](#Cara-Menjalankan)
+- [Struktur Folder](#Struktur-Folder)
+- [Tujuan Study Case](#Tujuan-Study-Case)
+- [Penjelasan Implementasi](#Penjelasan-Implementasi)
+- [Perbedaan OOP vs Procedural](#Perbedaan-OOP-vs-Procedural)
+- [Cara Menjalankan](#Cara-Menjalankan)
 - 
 
 ## 📁 Struktur Folder
